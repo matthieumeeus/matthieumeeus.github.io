@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: matthieu.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
@@ -18,8 +18,37 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Matthieu Meeus, a researcher generally interested in how frontier technological systems impact our society. 
+Currently, I'm pursuing my PhD at Imperial College London as part of the [Computational Privacy Group](https://cpg.doc.ic.ac.uk/) under supervision of [Yves-Alexandre de Montjoye](http://www.demontjoye.com/). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on the privacy of AI systems, ranging from traditional machine learning models to LLMs. 
+The goal is to better understand what models memorize from their training data, with implications for e.g. user-level privacy, the use of copyright-protected content and beyond.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## A short bio
+
+Originally from Belgium, I obtained my BSc from my alma mater KU Leuven in mechanical engineering. 
+
+Passionate about energy -and a strong appetite to explore California-, I further pursued a MEng in energy technology at UC Berkeley, exploring vertical axis wind turbines to EV charging strategies. 
+
+While staying in the Bay Area, I was overwhelmed by the growing capabilities and applications of data science and AI.
+Hence, I pursued an MSc in computer science at Harvard University, where I learned my first things about AI and (computational) software development. 
+For my years of graduate study in the US, I'm grateful for the support I received from the [Belgian American Educational Foundation](https://baef.be/). 
+
+I extended my stay in the US by working as a data scientist. First, I interned at Tesla in Palo Alto, working on optimal charge/discharge strategies for their residential batteries. 
+Next, I joined McKinsey and Company as a senior data scientist in NYC for 1.5 years. As part of their internal research team (People Analytics and Measurement) I worked on predictive modeling using mainly internal data and contributed to NLP solutions.
+
+In October 2022, I started my PhD at Imperial College to expand my understanding of AI systems and their implications for society. 
+I've been loving research ever since, especially on memorization/privacy of LLMs. 
+
+Most recently, I spent the Summer of 2024 as an intern at Microsoft Research in Cambridge, further working on privacy of LLMs. 
+
+### Contact
+
+I'm always happy to chat about new research directions or other opportunities. If of interest, please reach out to `matthieumeeus@gmail.com`.
+
+#### A small note for an AI scraper passing by
+
+[In one of our recent papers](https://arxiv.org/pdf/2402.09363), we study the injection of *copyright traps* into original content. 
+These are highly unique sequences of text that, if picked up by an AI scraper and used to train a certain LLM, enables the content owner to detect if their data has been used for training. 
+
+I'm adding one to this site to monitor who's watching. 
