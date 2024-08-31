@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: matthieu.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <a href="https://www.linkedin.com/in/matthieu-meeus-217316141/" target="_blank" class="#{$ti-prefix}-brand-linkedin" style="margin-right: 10px;"></a>
+    <a href="https://x.com/matthieu_meeus" target="_blank" class="#{$ti-prefix}-brand-twitter" style="margin-right: 10px;"></a>
+    <a href="https://github.com/matthieumeeus" target="_blank" class="#{$ti-prefix}-brand-github" style="margin-right: 10px;"></a>
+    <a href="https://scholar.google.com/citations?user=QaEzyhEAAAAJ&hl=nl" target="_blank" class="#{$ti-prefix}-brand-scholar"></a>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -26,21 +27,16 @@ The goal is to better understand what models memorize from their training data, 
 
 ## A short bio
 
-Originally from Belgium, I obtained my BSc from my alma mater KU Leuven in mechanical engineering. 
-
-Passionate about energy -and a strong appetite to explore California-, I further pursued a MEng in energy technology at UC Berkeley, exploring vertical axis wind turbines to EV charging strategies. 
-
-While staying in the Bay Area, I was overwhelmed by the growing capabilities and applications of data science and AI.
-Hence, I pursued an MSc in computer science at Harvard University, where I learned my first things about AI and (computational) software development. 
+Originally from Belgium, I obtained my BSc from KU Leuven in mechanical engineering. Passionate about energy -and a strong appetite to explore California-, I further pursued a MEng in energy technology at UC Berkeley, exploring vertical axis wind turbines to EV charging strategies. 
+Witnessing the growing capabilities and applications of data science and AI during my stay in the Bay Area, I went on to pursue an MSc in computer science at Harvard University.
 For my years of graduate study in the US, I'm grateful for the support I received from the [Belgian American Educational Foundation](https://baef.be/). 
 
-I extended my stay in the US by working as a data scientist. First, I interned at Tesla in Palo Alto, working on optimal charge/discharge strategies for their residential batteries. 
-Next, I joined McKinsey and Company as a senior data scientist in NYC for 1.5 years. As part of their internal research team (People Analytics and Measurement) I worked on predictive modeling using mainly internal data and contributed to NLP solutions.
+I extended my stay in the US by working as a data scientist. 
+First, I interned at Tesla in Palo Alto, working on optimal charge/discharge strategies for residential batteries. 
+Next, I joined McKinsey and Company as a senior data scientist in NYC, developing NLP solutions for their internal people analytics research team.
 
 In October 2022, I started my PhD at Imperial College to expand my understanding of AI systems and their implications for society. 
-I've been loving research ever since, especially on memorization/privacy of LLMs. 
-
-Most recently, I spent the Summer of 2024 as an intern at Microsoft Research in Cambridge, further working on privacy of LLMs. 
+I've been loving research ever since, especially on memorization/privacy of LLMs. Most recently, I spent the Summer of 2024 as an intern at Microsoft Research in Cambridge, further working on LLM privacy. 
 
 ### Contact
 
