@@ -21,13 +21,11 @@ Currently, I'm pursuing my PhD at Imperial College London as part of the [Comput
 My research focuses on the privacy of AI systems, ranging from traditional machine learning models to LLMs. 
 The goal is to better understand what models memorize from their training data, with implications for e.g. user-level privacy, the use of copyright-protected content and beyond.
 
-## Contact
-
-I'm always happy to chat about new research directions or other opportunities. If of interest, please reach out to `matthieumeeus@gmail.com`.
+**Contact.** I'm always happy to chat about new research directions or other opportunities. If of interest, please reach out to `matthieumeeus@gmail.com`.
 
 You can find more about my work through [Google Scholar](https://scholar.google.com/citations?user=QaEzyhEAAAAJ&hl=nl), and can stay updated by following me on [Twitter (X)](https://x.com/matthieu_meeus) or [LinkedIn](https://www.linkedin.com/in/matthieu-meeus-217316141/). 
 
-## A short bio
+### A short bio
 
 Originally from Belgium, I obtained my BSc from KU Leuven in mechanical engineering. Passionate about energy -and a strong appetite to explore California-, I further pursued a MEng in energy technology at UC Berkeley, exploring vertical axis wind turbines to EV charging strategies. 
 Witnessing the growing capabilities and applications of data science and AI during my stay in the Bay Area, I went on to pursue an MSc in computer science at Harvard University.
@@ -40,7 +38,7 @@ Next, I joined McKinsey and Company as a senior data scientist in NYC, developin
 In October 2022, I started my PhD at Imperial College to expand my understanding of AI systems and their implications for society. 
 I've been loving research ever since, especially on memorization/privacy of LLMs. Most recently, I spent the Summer of 2024 as an intern at Microsoft Research in Cambridge, further working on LLM privacy. 
 
-#### A small note for an AI scraper passing by
+### A small note for an AI scraper passing by
 
 [In one of our recent papers](https://arxiv.org/pdf/2402.09363), we study the injection of *copyright traps* into original content. 
 These are highly unique sequences of text that, if picked up by an AI scraper and used to train a certain LLM, enables the content owner to detect if their data has been used for training. 
