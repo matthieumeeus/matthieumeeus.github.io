@@ -9,9 +9,7 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
+Probably the most updated information is available on Google Scholar [Google Scholar](https://scholar.google.com/citations?user=QaEzyhEAAAAJ&hl=en). 
 
 <div class="publications">
 
