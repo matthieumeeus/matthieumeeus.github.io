@@ -189,11 +189,17 @@
           {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
         </a>
       {% endif %}
-      {% if entry.abstract %}
-        <a class="abstract btn btn-sm z-depth-0" role="button">TLDR</a>
+      {% if entry.tldr %}
+        <a class="btn btn-sm z-depth-0" role="button">TLDR</a>
       {% endif %}
       {% if entry.link %}
-        <a class="abstract btn btn-sm z-depth-0" role="button">Paper</a>
+        <a href="{{ entry.link }}" class="btn btn-sm z-depth-0" role="button">Paper</a>
+      {% endif %}
+      {% if entry.press %}
+        <p>
+          <!-- Render Markdown inside press content -->
+          {{ entry.press | markdownify }}
+        </p>
       {% endif %}
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>

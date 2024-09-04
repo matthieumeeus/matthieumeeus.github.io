@@ -9,11 +9,12 @@
   pages={2369--2385},
   year={2024},
   selected={true},
-  abstract={TLDR; Given a pretrained LLM and a document, can I infer whether the document was used to train the LLM?
-            We rely on collection of documents which we know have been used to train the LLM (members) and documents made available after the model release data (non-members).
+  tldr={TLDR; Given a pretrained LLM and a document, can I infer whether the document was used to train the LLM?
+            First, we rely on the collection of documents which we know have been used to train the LLM (members) and documents made available after the model release data (non-members).
+            We then query the LLM on both members and non-members for token-level probabilities and train a classifier to predict binary membership.
             Spoiler: It's harder than you think!},
   link={https://arxiv.org/pdf/2310.15007},
-  additional_info={Press coverage in }
+  press={Press coverage in [Le Monde](https://www.lemonde.fr/sciences/article/2023/11/16/comment-savoir-si-un-contenu-a-ete-utilise-par-une-intelligence-artificielle_6200425_1650684.html).}
 }
 
 @inproceedings{meeuscopyright,
