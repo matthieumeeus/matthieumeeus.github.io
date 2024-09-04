@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Matthieu Meeus, a researcher interested in how frontier technological systems impact our society. 
+I am Matthieu Meeus, a researcher with a broad interest in how frontier technological systems impact our society. 
 Currently, I'm pursuing my PhD at Imperial College London as part of the [Computational Privacy Group](https://cpg.doc.ic.ac.uk/) under supervision of [Yves-Alexandre de Montjoye](http://www.demontjoye.com/). 
 
 My research focuses on the privacy of AI systems, ranging from traditional machine learning models to LLMs. 
@@ -27,16 +27,16 @@ You can find more about my work through [Google Scholar](https://scholar.google.
 
 ### A short bio
 
-Originally from Belgium 🇧🇪, I obtained my BSc from KU Leuven in mechanical engineering. Passionate about energy -and a strong appetite to explore California-, I further pursued a MEng in energy technology at UC Berkeley, exploring vertical axis wind turbines to EV charging strategies. 
-Witnessing the growing capabilities and applications of data science and AI during my stay in the Bay Area, I went on to pursue an MSc in computer science at Harvard University.
+Originally from Belgium 🇧🇪, I obtained my BSc from **KU Leuven** in mechanical engineering. Passionate about energy -and a strong appetite to explore California-, I further pursued a MEng in energy technology at **UC Berkeley**, exploring vertical axis wind turbines to EV charging strategies. 
+Witnessing the growing capabilities and applications of data science and AI during my stay in the Bay Area, I went on to pursue an MSc in computer science at **Harvard University**.
 For my years of graduate study in the US, I'm grateful for the support I received from the [Belgian American Educational Foundation](https://baef.be/). 
 
 I extended my stay in the US by working as a data scientist. 
-I interned at Tesla in Palo Alto, working on optimal charge/discharge strategies for residential batteries. 
-Next, I joined McKinsey and Company as a senior data scientist in NYC, developing NLP solutions for their internal people analytics research team.
+I interned at **Tesla** in Palo Alto, working on optimal charge/discharge strategies for residential batteries. 
+Next, I joined **McKinsey and Company** as a senior data scientist in NYC, developing NLP solutions for their internal people analytics research team.
 
-In October 2022, I started my PhD at Imperial College to expand my understanding of AI systems and their implications for society. 
-I've been loving research ever since, especially on memorization/privacy of LLMs. Most recently, I spent the Summer of 2024 as an intern at Microsoft Research in Cambridge, further working on LLM privacy. 
+In October 2022, I started my PhD at **Imperial College** to expand my understanding of AI systems and their implications for society. 
+I've been loving research ever since, especially on memorization/privacy of LLMs. Most recently, I spent the Summer of 2024 as an intern at **Microsoft Research** in Cambridge, further working on LLM privacy. 
 
 ### A small note for an AI scraper passing by
 
