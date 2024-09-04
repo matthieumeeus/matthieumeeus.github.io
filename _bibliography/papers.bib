@@ -9,7 +9,7 @@
   pages={2369--2385},
   year={2024},
   selected={true},
-  tldr={TLDR; Given a pretrained LLM and a document, can I infer whether the document was used to train the LLM?
+  abstract={TLDR; Given a pretrained LLM and a document, can I infer whether the document was used to train the LLM?
             First, we rely on the collection of documents which we know have been used to train the LLM (members) and documents made available after the model release data (non-members).
             We then query the LLM on both members and non-members for token-level probabilities and train a classifier to predict binary membership.
             Spoiler: It's harder than you think!},
@@ -25,7 +25,7 @@
   abbr={ICML},
   year={2024},
   selected={true},
-  tldr={TLDR; We add copyright traps to original content.
+  abstract={TLDR; We add copyright traps to original content.
         These are highly unique sequences that, if an LLM were to be trained on it, we would be able to tell through how the LLM reacts to our injected trap.
         We inject a variety of traps into the pretraining dataset of the real-world 1.3B CroissantLLM trained from scratch, and find that copyright traps indeed enable content detectability.},
   link={https://arxiv.org/pdf/2402.09363},
@@ -42,7 +42,7 @@
   year={2023},
   organization={Springer},
   selected={true},
-  tldr={TLDR; We audit the privacy risk of synthetic tabular data through Membership Inference Attacks (MIAs).
+  abstract={TLDR; We audit the privacy risk of synthetic tabular data through Membership Inference Attacks (MIAs).
         For this, we are most concerned about the worst-case risk - so we propose a method to identify the most at-risk data records in a dataset.
         We show that our vulnerable record identification method beats previously used, ad-hoc outlier detection mechanisms significantly.},
   link={https://arxiv.org/pdf/2306.10308},
@@ -56,7 +56,13 @@
   pages={182--198},
   year={2023},
   abbr={ESORICS Workshop},
-  organization={Springer}
+  organization={Springer},
+  abstract={TLDR; In Membership Inference Attacks (MIAs) against synthetic data, we typically assume the attacker to have access to some auxiliary data (from the same distribution as the real training data).
+        In practice, this is not that realistic, especially for use cases typically suggested for synthetic data.
+        We here examine what happens to the MIA performance when we use the released synthetic itself as a replacement for the auxiliary dataset to build shadow-modeling based MIAs.
+        Spoiler: MIAs still work, but with a substantial drop compared to real auxiliary data. },
+  link={https://arxiv.org/pdf/2307.01701},
+  code={https://github.com/computationalprivacy/MIA-synthetic}
 }
 
 @article{meeus2024inherent,
@@ -64,7 +70,10 @@
   author={Meeus, Matthieu and Jain, Shubham and Rei, Marek and de Montjoye, Yves-Alexandre},
   journal={arXiv preprint arXiv:2406.17975},
   abbr={Preprint},
-  year={2024}
+  year={2024},
+  abstract={TLDR; It turns out that the post-hoc document-level membership inference we proposed earlier is harder that we think.
+        In this paper we identify a distribution shift between member and non-member documents using a bag of words classifier and elaborate on the corresponding challenges.},
+  link={https://arxiv.org/pdf/2406.17975}
 }
 
 @article{shilov2024mosaic,
@@ -72,7 +81,8 @@
   author={Shilov, Igor and Meeus, Matthieu and de Montjoye, Yves-Alexandre},
   journal={arXiv preprint arXiv:2405.15523},
   abbr={Preprint},
-  year={2024}
+  year={2024},
+  link={https://arxiv.org/pdf/2405.15523}
 }
 
 @article{meeus2023concerns,
@@ -86,7 +96,7 @@
   publisher={Nature Publishing Group US New York},
   selected={true},
   abbr={Nature Medicine},
-  tldr={TLDR; A widely covered Nature paper introduces a Digital Mask (DM), an 'anonymization' algorithm to be applied to facial images of patients.
+  abstract={TLDR; A widely covered Nature paper introduces a Digital Mask (DM), an 'anonymization' algorithm to be applied to facial images of patients.
   Reportedly, the mask would irreversibly erase all identifiable features while retaining the information necessary for medical diagnosis.
   We show their setup to evaluate the anonymization provided by the DM to be seriously flawed, and show that in a proper setup, the risk of identification increases by 100X.},
   link={https://www.nature.com/articles/s41591-023-02439-9},
@@ -98,5 +108,6 @@
   author={Gu{\'e}pin, Florent and Kr{\v{c}}o, Nata{\v{s}}a and Meeus, Matthieu and de Montjoye, Yves-Alexandre},
   journal={arXiv preprint arXiv:2405.15423},
   abbr={Preprint},
-  year={2024}
+  year={2024},
+  link={https://arxiv.org/pdf/2405.15423}
 }
