@@ -24,7 +24,13 @@
   booktitle={Forty-first International Conference on Machine Learning},
   abbr={ICML},
   year={2024},
-  selected={true}
+  selected={true},
+  tldr={TLDR; We add copyright traps to original content.
+        These are highly unique sequences that, if an LLM were to be trained on it, we would be able to tell through how the LLM reacts to our injected trap.
+        We inject a variety of traps into the pretraining dataset of the real-world 1.3B CroissantLLM trained from scratch, and find that copyright traps indeed enable content detectability.},
+  link={https://arxiv.org/pdf/2402.09363},
+  code={https://github.com/computationalprivacy/copyright-traps},
+  press={Press coverage in [MIT Technology Review](https://www.technologyreview.com/2024/07/25/1095347/a-new-tool-for-copyright-holders-can-show-if-their-work-is-in-ai-training-data/) and [Nature News](https://www.nature.com/articles/d41586-024-02599-9).}
 }
 
 @inproceedings{meeus2023achilles,
@@ -36,6 +42,11 @@
   year={2023},
   organization={Springer},
   selected={true}
+  tldr={TLDR; We audit the privacy risk of synthetic tabular data through Membership Inference Attacks (MIAs).
+        For this, we are most concerned about the worst-case risk - so we propose a method to identify the most at-risk data records in a dataset.
+        We show that our vulnerable record identification method beats previously used, ad-hoc outlier detection mechanisms significantly.},
+  link={https://arxiv.org/pdf/2306.10308},
+  code={https://github.com/computationalprivacy/MIA-synthetic}
 }
 
 @inproceedings{guepin2023synthetic,
@@ -74,7 +85,12 @@
   year={2023},
   publisher={Nature Publishing Group US New York},
   selected={true},
-  abbr={Nature Medicine}
+  abbr={Nature Medicine},
+  tldr={TLDR; A widely covered Nature paper introduces a Digital Mask (DM), an 'anonymization' algorithm to be applied to facial images of patients.
+  Reportedly, the mask would irreversibly erase all identifiable features while retaining the information necessary for medical diagnosis.
+  We show their setup to evaluate the anonymization provided by the DM to be seriously flawed, and show that in a proper setup, the risk of identification increases by 100X.},
+  link={https://www.nature.com/articles/s41591-023-02439-9},
+  code={https://github.com/computationalprivacy/unmask}
 }
 
 @article{guepin2024lost,
