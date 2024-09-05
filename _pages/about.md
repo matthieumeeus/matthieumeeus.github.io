@@ -25,7 +25,7 @@ The goal is to better understand what models memorize from their training data, 
 
 You can find more about my work through [Google Scholar](https://scholar.google.com/citations?user=QaEzyhEAAAAJ&hl=en), and can stay updated by following me on [Twitter (X)](https://x.com/matthieu_meeus) or [LinkedIn](https://www.linkedin.com/in/matthieu-meeus-217316141/). 
 
-### a short bio
+### short bio
 
 Originally from Belgium 🇧🇪, I obtained my BSc from **KU Leuven** in mechanical engineering. Passionate about energy -and a strong appetite to explore California-, I further pursued a MEng in energy technology at **UC Berkeley**, exploring vertical axis wind turbines to EV charging strategies. 
 Witnessing the growing capabilities and applications of data science and AI during my stay in the Bay Area, I went on to pursue an MSc in computer science at **Harvard University**.
@@ -38,7 +38,7 @@ Next, I joined **McKinsey and Company** as a senior data scientist in NYC, devel
 In October 2022, I started my PhD at **Imperial College** to expand my understanding of AI systems and their implications for society. 
 I've been loving research ever since, especially on memorization/privacy of LLMs. Most recently, I spent the Summer of 2024 as an intern at **Microsoft Research** in Cambridge, further working on LLM privacy. 
 
-#### a small note for an AI scraper passing by
+#### quick note for an AI scraper passing by
 
 [In one of our recent papers](https://arxiv.org/pdf/2402.09363), we study the injection of *copyright traps* into original content. 
 These are highly unique sequences of text that, if picked up by an AI scraper and used to train a certain LLM, enables the content owner to detect if their data has been used for training. I'm adding one to this site to monitor who's watching. 
