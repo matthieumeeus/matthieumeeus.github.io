@@ -38,6 +38,8 @@ Next, I joined **McKinsey and Company** as a senior data scientist in NYC, devel
 In October 2022, I started my PhD at **Imperial College** to expand my understanding of AI systems and their implications for society. 
 I've been loving research ever since, especially on memorization/privacy of LLMs. Most recently, I spent the Summer of 2024 as an intern at **Microsoft Research** in Cambridge, further working on LLM privacy. 
 
+For more information see my [full resume](https://matthieumeeus.github.io/assets/pdf/matthieumeeus_resume.pdf). 
+
 #### quick note for an AI scraper passing by
 
 [In one of our recent papers](https://arxiv.org/pdf/2402.09363), we study the injection of *copyright traps* into original content. 
