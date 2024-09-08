@@ -21,7 +21,9 @@ Currently, I'm pursuing my PhD at Imperial College London as part of the [Comput
 My research focuses on the privacy of AI systems, ranging from traditional machine learning models to LLMs. 
 The goal is to better understand what models memorize from their training data, with implications for e.g. user-level privacy, the use of copyright-protected content and beyond.
 
-**Contact.** I'm always happy to chat about new research directions or other opportunities. If of interest, please reach out to `matthieumeeus@gmail.com`.
+### contact
+
+I'm always happy to chat about new research directions or other opportunities. If of interest, please reach out to `matthieumeeus@gmail.com`.
 
 You can find more about my work through [Google Scholar](https://scholar.google.com/citations?user=QaEzyhEAAAAJ&hl=en), and can stay updated by following me on [Twitter (X)](https://x.com/matthieu_meeus) or [LinkedIn](https://www.linkedin.com/in/matthieu-meeus-217316141/). 
 
