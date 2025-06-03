@@ -1,12 +1,35 @@
 ---
 ---
 
+@article{hayes2025strong,
+  title={Strong Membership Inference Attacks on Massive Datasets and (Moderately) Large Language Models},
+  author={Hayes, Jamie and Shumailov, Ilia and Choquette-Choo, Christopher A and Jagielski, Matthew and Kaissis, George and Lee, Katherine and Nasr, Milad and Ghalebikesabi, Sahra and Mireshghallah, Niloofar and Annamalai, Meenatchi Sundaram Mutu Selva and others},
+  journal={arXiv preprint arXiv:2505.18773},
+  abbr={Preprint},
+  year={2025},
+  abstract={TLDR; We run shadow-modeling based MIAs against LLM pretraining, studying how well attacks can perform when adversaries have strong computational power and how vulnerability changes with the setup/differs from other privacy metrics.},
+  link={https://arxiv.org/pdf/2505.18773},
+}
+
+@article{yang2025alignment,
+  title={Alignment Under Pressure: The Case for Informed Adversaries When Evaluating LLM Defenses},
+  author={Yang, Xiaoxue and Stevanoski, Bozhidar and Meeus, Matthieu and de Montjoye, Yves-Alexandre},
+  journal={arXiv preprint arXiv:2505.15738},
+  abbr={Preprint},
+  year={2025},
+  abstract={TLDR; We take the perspective of a strong adversary to stress-test alignment based defenses against prompt injection attacks and jailbreaking.
+  We find that successful attacks almost always exist, suggesting that alignmnet-based defenses are not robust against every improving attacks in the future.},
+  link={https://arxiv.org/pdf/2505.15738},
+  code={https://github.com/computationalprivacy/checkpoint-gcg}
+}
+
 @article{meeus2025canary,
       title={The Canary's Echo: Auditing Privacy Risks of LLM-Generated Synthetic Text}, 
       author={Matthieu Meeus and Lukas Wutschitz and Santiago Zanella-Béguelin and Shruti Tople and Reza Shokri},
-      journal={arXiv preprint arXiv:2502.14921},
-      abbr={Preprint},
+      booktitle={Forty-second International Conference on Machine Learning},
+      abbr={ICML},
       year={2025},
+      selected={true},
       abstract={TLDR; We propose the first privacy auditing pipeline for synthetic text. 
                 We implement different MIAs just based on access to the text and
                 find that canaries with low-perplexity-prefix and high-perplexity-suffix are the most vulnerable.},
