@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am Matthieu Meeus, a researcher with a broad interest in how frontier technological systems impact our society. 
-Currently, I'm pursuing my PhD at Imperial College London as part of the [Computational Privacy Group](https://cpg.doc.ic.ac.uk/) under supervision of [Yves-Alexandre de Montjoye](http://www.demontjoye.com/). 
+Currently, I'm pursuing my PhD at Imperial College London as part of the [AI Security and Privacy Lab](https://aisp.doc.ic.ac.uk/) under supervision of [Yves-Alexandre de Montjoye](http://www.demontjoye.com/). 
 
 My research focuses on the privacy of AI, ranging from traditional machine learning models to LLMs. 
 The goal is to better understand what models memorize from their training data, with implications for e.g. user-level privacy, the use of copyright-protected content, model utility and beyond. 
