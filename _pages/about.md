@@ -23,7 +23,7 @@ The goal is to better understand what models memorize from their training data, 
 
 ### contact
 
-I'm always happy to chat about new research directions or other opportunities. **At the moment, I'm particularly interested in spending time on the East Coast** 🇺🇸! If of interest, please reach out to `matthieumeeus@gmail.com`. 
+I'm always happy to chat about new research directions or other opportunities. **At the moment, I'm particularly interested in full-time, industry opportunites in research(-driven products) on the East Coast** 🇺🇸! If of interest, please reach out to `matthieumeeus@gmail.com`. 
 
 You can find more about my work through [Google Scholar](https://scholar.google.com/citations?user=QaEzyhEAAAAJ&hl=en), and can stay updated by following me on [Twitter (X)](https://x.com/matthieu_meeus) or [LinkedIn](https://www.linkedin.com/in/matthieu-meeus-217316141/). 
 
