@@ -192,7 +192,7 @@ ul.task-list input[type="checkbox"] {
 
 // About page - bold text is just bold, no color override
 .post article .clearfix strong {
-  font-weight: bold;
+  font-weight: 600;
 }
 
 // About page - links in body text use a soft blue
@@ -766,9 +766,11 @@ footer.sticky-bottom {
 
       .author {
         a {
-          border-bottom: 1px dashed var(--global-theme-color);
+          color: #6b9fd4;
+          border-bottom: 1px dashed #6b9fd4;
 
           &:hover {
+            color: #4a7fb5;
             border-bottom-style: solid;
             text-decoration: none;
           }
