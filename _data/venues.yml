@@ -1,9 +1,36 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# Conferences
+"ICML":
+  color: "#b04949"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Neurips":
+  color: "#b04949"
 
-"Vision":
-  color: "#009f36"
+"ESORICS":
+  color: "#b04949"
+
+"SaTML":
+  color: "#b04949"
+
+"USENIX Security":
+  color: "#b04949"
+
+# Journals
+"Nature Comms":
+  color: "#2c7873"
+
+"Nature Medicine":
+  color: "#2c7873"
+
+# Workshops
+"ICML Workshop":
+  color: "#5c6b9e"
+
+"ESORICS Workshop":
+  color: "#5c6b9e"
+
+"DPM":
+  color: "#5c6b9e"
+
+# Preprints
+"Preprint":
+  color: "#828282"

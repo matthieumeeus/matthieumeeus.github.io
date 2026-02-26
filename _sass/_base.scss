@@ -190,6 +190,12 @@ ul.task-list input[type="checkbox"] {
   color: var(--global-theme-color);
 }
 
+// About page - subtle emphasis using theme accent instead of heavy bold
+.post article .clearfix strong {
+  font-weight: 600;
+  color: var(--global-theme-color);
+}
+
 // Profile
 
 .profile {
@@ -209,6 +215,25 @@ ul.task-list input[type="checkbox"] {
 
 .profile.float-right {
   margin-left: 1rem;
+}
+
+.profile-social {
+  margin-top: 0.6rem;
+  text-align: center;
+  font-size: 1.5rem;
+
+  a {
+    margin: 0 0.2rem;
+
+    i::before {
+      color: var(--global-text-color);
+      transition: color 0.2s ease-in-out;
+    }
+
+    &:hover i::before {
+      color: var(--global-theme-color);
+    }
+  }
 }
 
 .profile.float-left {
