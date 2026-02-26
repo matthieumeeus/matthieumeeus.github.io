@@ -190,14 +190,22 @@ ul.task-list input[type="checkbox"] {
   color: var(--global-theme-color);
 }
 
-// About page - bold text uses theme accent color without bold weight
+// About page - bold text is just bold, no color override
 .post article .clearfix strong {
-  font-weight: normal;
-  color: var(--global-theme-color);
+  font-weight: bold;
 }
 
 // About page - links in body text use a soft blue
 .post article .clearfix a {
+  color: #6b9fd4;
+
+  &:hover {
+    color: #4a7fb5;
+  }
+}
+
+// News section links match about page link color
+.news a {
   color: #6b9fd4;
 
   &:hover {

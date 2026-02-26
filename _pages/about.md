@@ -15,15 +15,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Matthieu Meeus, a researcher with a broad interest in how frontier technological systems impact our society. 
-Currently, I'm pursuing my PhD in computer science at Imperial College London as part of the [AI Security and Privacy Lab](https://aisp.doc.ic.ac.uk/) under supervision of [Yves-Alexandre de Montjoye](http://www.demontjoye.com/). 
+I am a researcher with a broad interest in how frontier technological systems impact our society. 
+Currently, I'm pursuing/wrapping up my PhD in computer science at Imperial College London as part of the [AI Security and Privacy Lab](https://aisp.doc.ic.ac.uk/) under supervision of [Yves-Alexandre de Montjoye](http://www.demontjoye.com/). 
 
-My research has primarily focused on privacy/memorizatio of AI, ranging from traditional machine learning models to LLMs. 
+My research has primarily focused on privacy/memorization of AI, ranging from traditional machine learning models to LLMs. 
 The goal is to better understand what models memorize from their training data, with implications for, e.g., privacy and confidentiality, copyright, model utility and evaluation etc. 
 
 ### contact
 
-I'm always happy to chat about new research directions or other opportunities. **At the moment, I'm looking for full-time opportunites in industry, preferably on the East Coast** 🇺🇸! If of interest, please reach out to `matthieumeeus@gmail.com`. 
+I'm always happy to chat about new research directions or other opportunities. **At the moment, I'm looking for full-time opportunites in industry, preferably on the East Coast** 🇺🇸! Please [reach out](mailto:matthieumeeus@gmail.com) if of interest.  
 
 You can find more about my work through [Google Scholar](https://scholar.google.com/citations?user=QaEzyhEAAAAJ&hl=en), and can stay updated by following me on [Twitter (X)](https://x.com/matthieu_meeus) or [LinkedIn](https://www.linkedin.com/in/matthieu-meeus-217316141/). 
 
@@ -31,7 +31,6 @@ You can find more about my work through [Google Scholar](https://scholar.google.
 
 Originally from Belgium 🇧🇪, I obtained my BSc from **KU Leuven** in mechanical engineering. Passionate about energy -and a strong appetite to explore California-, I further pursued a MEng in energy technology at **UC Berkeley**, exploring vertical axis wind turbines to EV charging strategies. 
 Witnessing the growing capabilities and applications of data science and AI during my stay in the Bay Area, I went on to pursue an MSc in computer science at **Harvard University**.
-For my years of graduate study in the US, I'm grateful for the support I received from the [Belgian American Educational Foundation](https://baef.be/). 
 
 I extended my stay in the US by working as a data scientist. 
 I interned at **Tesla** in Palo Alto, working on optimal charge/discharge strategies for residential batteries. 
