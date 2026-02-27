@@ -708,10 +708,10 @@ footer.sticky-bottom {
   margin-top: 2rem;
 
   a {
-    color: #6b9fd4;
+    color: #6b9fd4 !important;
 
     &:hover {
-      color: #4a7fb5;
+      color: #4a7fb5 !important;
     }
   }
 
@@ -809,7 +809,7 @@ footer.sticky-bottom {
 
       .links {
         a.btn {
-          color: #6b9fd4;
+          color: #6b9fd4 !important;
           border: 1px solid #6b9fd4;
           padding-left: 1rem;
           padding-right: 1rem;
@@ -818,7 +818,7 @@ footer.sticky-bottom {
           margin-left: 0;
 
           &:hover {
-            color: #4a7fb5;
+            color: #4a7fb5 !important;
             border-color: #4a7fb5;
           }
         }
