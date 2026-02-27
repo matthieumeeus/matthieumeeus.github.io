@@ -210,7 +210,7 @@ ul.task-list input[type="checkbox"] {
     color: var(--global-text-color);
   }
 
-  a {
+  td a {
     color: #6b9fd4;
 
     &:hover {
@@ -757,10 +757,10 @@ footer.sticky-bottom {
           display: inline-block;
           background-color: #6b9fd4;
           margin-bottom: 0.5rem;
-          color: white;
+          color: white !important;
 
           a {
-            color: white;
+            color: white !important;
 
             &:hover {
               text-decoration: none;

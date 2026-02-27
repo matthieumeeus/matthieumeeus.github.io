@@ -23,21 +23,21 @@ The goal is to better understand what models memorize from their training data, 
 
 ### contact
 
-I'm always happy to chat about new research directions or other opportunities. **At the moment, I'm looking for full-time opportunites in industry, preferably on the East Coast** 🇺🇸! Please [reach out](mailto:matthieumeeus@gmail.com) if of interest.  
+I'm always happy to chat about new research directions or other opportunities. *At the moment, I'm looking for full-time opportunites in industry, preferably on the East Coast* 🇺🇸! Please [reach out](mailto:matthieumeeus@gmail.com) if of interest.  
 
 You can find more about my work through [Google Scholar](https://scholar.google.com/citations?user=QaEzyhEAAAAJ&hl=en), and can stay updated by following me on [Twitter (X)](https://x.com/matthieu_meeus) or [LinkedIn](https://www.linkedin.com/in/matthieu-meeus-217316141/). 
 
 ### a short bio
 
-Originally from Belgium 🇧🇪, I obtained my BSc from **KU Leuven** in mechanical engineering. Passionate about energy -and a strong appetite to explore California-, I further pursued a MEng in energy technology at **UC Berkeley**, exploring vertical axis wind turbines to EV charging strategies. 
-Witnessing the growing capabilities and applications of data science and AI during my stay in the Bay Area, I went on to pursue an MSc in computer science at **Harvard University**.
+Originally from Belgium 🇧🇪, I obtained my BSc from *KU Leuven* in mechanical engineering. Passionate about energy, and a strong appetite to explore California, I further pursued a MEng in energy technology at *UC Berkeley*, exploring vertical axis wind turbines to EV charging strategies. 
+Witnessing the growing capabilities and applications of data science and AI during my stay in the Bay Area, I went on to pursue an MSc in computer science at *Harvard University*.
 
 I extended my stay in the US by working as a data scientist. 
-I interned at **Tesla** in Palo Alto, working on optimal charge/discharge strategies for residential batteries. 
-Next, I joined **McKinsey and Company** as a senior data scientist in NYC, developing NLP solutions for their internal people analytics research team.
+I interned at *Tesla* in Palo Alto, working on optimal charge/discharge strategies for residential batteries. 
+Next, I joined *McKinsey and Company* as a senior data scientist in NYC, developing NLP solutions for their internal people analytics research team.
 
-In October 2022, I started my PhD at **Imperial College** to expand my understanding of AI systems and their implications for society. 
+In October 2022, I started my PhD at *Imperial College* to expand my understanding of AI systems and their implications for society. 
 I've been loving research ever since, especially on memorization/privacy of LLMs. 
-During my PhD, I interned at **Microsoft Research** in Cambridge (2024) and am soon/currently at **Meta** in NYC (from March 2026).
+During my PhD, I interned at *Microsoft Research* in Cambridge (2024) and am soon/currently at *Meta* in NYC (from March 2026).
 
 For more information see my [full resume](https://matthieumeeus.github.io/assets/pdf/matthieumeeus_resume.pdf). 
