@@ -204,12 +204,18 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-// News section links match about page link color
-.news a {
-  color: #6b9fd4;
+// News section - ensure text color follows theme and links match about page
+.news {
+  td, th {
+    color: var(--global-text-color);
+  }
 
-  &:hover {
-    color: #4a7fb5;
+  a {
+    color: #6b9fd4;
+
+    &:hover {
+      color: #4a7fb5;
+    }
   }
 }
 
@@ -741,7 +747,7 @@ footer.sticky-bottom {
 
         abbr {
           display: inline-block;
-          background-color: var(--global-theme-color);
+          background-color: #6b9fd4;
           margin-bottom: 0.5rem;
           color: white;
 
