@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joining Meta as a Research Scientist Intern in NYC for 6 months! Will be working on memorization and privacy of AI with the [Central Applied Intelligence](https://research.facebook.com/teams/cas/) team.
+Joining Meta as a Research Scientist Intern in NYC for 6 months! Will be working on memorization and privacy of AI within Meta Superintelligence Labs (MSL).

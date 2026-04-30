@@ -38,6 +38,6 @@ Next, I joined **McKinsey and Company** as a senior data scientist in NYC, devel
 
 In October 2022, I started my PhD at **Imperial College** to expand my understanding of AI systems and their implications for society. 
 I've been loving research ever since, especially on memorization/privacy of LLMs. 
-During my PhD, I interned at **Microsoft Research** in Cambridge (2024) and am currently at **Meta** in NYC (March-August '26).
+During my PhD, I interned at **Microsoft Research** in Cambridge (2024) and am currently at **Meta** (Superintelligence Labs) in NYC (March-August '26).
 
 For more information see my [full resume](https://matthieumeeus.github.io/assets/pdf/matthieumeeus_resume.pdf). 
