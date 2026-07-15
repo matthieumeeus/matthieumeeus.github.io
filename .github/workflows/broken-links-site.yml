@@ -42,5 +42,7 @@ jobs:
         uses: lycheeverse/lychee-action@v1.9.0
         with:
           fail: true
-          # only check local links
-          args: --offline --remap '_site(/?.*)/assets/(.*) _site/assets/$2' --verbose --no-progress '_site/**/*.html'
+          # only check local links; --root-dir resolves root-relative links (e.g. /assets/...) against _site
+          # excluded: jekyll-imagemagick isn't generating these responsive image variants in CI, so they 404;
+          # site still renders fine since <picture> falls back to the plain .jpg
+          args: --offline --root-dir "${{ github.workspace }}/_site" --exclude 'assets/img/matthieu-\d+\.webp' --verbose --no-progress '_site/**/*.html'
