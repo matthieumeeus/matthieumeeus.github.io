@@ -17,13 +17,13 @@ social: true # includes social icons at the bottom of the page
 
 I am a researcher with a broad interest in how frontier technological systems impact our society. 
 
-Currently, I'm pursuing/wrapping up my PhD in computer science at Imperial College London as part of the [AI Security and Privacy Lab](https://aisp.doc.ic.ac.uk/) under supervision of [Yves-Alexandre de Montjoye](http://www.demontjoye.com/), while also interning at Meta. 
+Currently, I'm a research scientist focusing on privacy and security of AI systems at Meta in NYC, specifically in their Fundamental AI Research (FAIR) team within Meta Superintelligence Labs. 
 
-My research thus far has primarily focused on privacy/memorization of AI, ranging from traditional machine learning models to LLMs. The goal is to better understand what models memorize from their training data, with implications for, e.g., privacy and confidentiality, copyright, model utility and evaluation etc. 
+Before that, I received my PhD in computer science at Imperial College London as part of the [AI Security and Privacy Lab](https://aisp.doc.ic.ac.uk/) under supervision of [Yves-Alexandre de Montjoye](http://www.demontjoye.com/). During my PhD, my research has primarily focused on privacy/memorization of AI, ranging from traditional machine learning models to LLMs. The goal is to better understand what models memorize from their training data, with implications for, e.g., privacy and confidentiality, copyright, model utility and evaluation etc. 
 
 ### contact
 
-I'm always happy to chat about new research directions or other opportunities. **Right now, I'm looking for full-time AI (research) opportunities, preferably on the East Coast starting in Fall '26** 🇺🇸! Please [reach out](mailto:matthieumeeus@gmail.com) if of interest.  
+I'm always happy to meet new people in the field or to chat about new research directions. Feel free to [reach out](mailto:matthieumeeus@gmail.com)!  
 
 You can find more about my work through [Google Scholar](https://scholar.google.com/citations?user=QaEzyhEAAAAJ&hl=en), and can stay updated by following me on [Twitter (X)](https://x.com/matthieu_meeus) or [LinkedIn](https://www.linkedin.com/in/matthieu-meeus-217316141/). 
 
@@ -36,8 +36,10 @@ I extended my stay in the US by working as a data scientist.
 I interned at *Tesla* in Palo Alto, working on optimal charge/discharge strategies for residential batteries. 
 Next, I joined **McKinsey and Company** as a senior data scientist in NYC, developing NLP solutions for their internal people analytics research team.
 
-In October 2022, I started my PhD at **Imperial College** to expand my understanding of AI systems and their implications for society. 
+In Fall 2022, I started my PhD at **Imperial College** to expand my understanding of AI systems and their implications for society. 
 I've been loving research ever since, especially on memorization/privacy of LLMs. 
-During my PhD, I interned at **Microsoft Research** in Cambridge (2024) and am currently at **Meta** (Superintelligence Labs) in NYC (March-August '26).
+During my PhD, I interned at **Microsoft Research** in Cambridge (2024) and at **Meta** (Superintelligence Labs) in NYC (2026). 
+
+In Fall 2026, I successfully defended my PhD entitled "Auditing and Understanding Memorization in Large Language Models". And now I re-joined **Meta** full-time in NYC, as a research scientist focusing on privacy and security of AI systems within FAIR.
 
 For more information see my [full resume](https://matthieumeeus.github.io/assets/pdf/matthieumeeus_resume.pdf). 
